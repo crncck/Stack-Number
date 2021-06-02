@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1589226135 source:c:\users\ceren\desktop\homework\programming language\homework\stacknumber\numbertype.c
+	<stdio.h>
+	"numberType.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+
+1589221748 c:\users\ceren\desktop\homework\programming language\homework\stacknumber\numbertype.h
+
+1589225571 source:c:\users\ceren\desktop\homework\programming language\homework\stacknumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"numberType.h"
+	<conio.h>
+
+1589226928 source:c:\users\ceren\desktop\homework\pl\stacknumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"numberType.h"
+	<conio.h>
+
+1589226928 c:\users\ceren\desktop\homework\pl\stacknumber\numbertype.h
+
+1589226928 source:c:\users\ceren\desktop\homework\pl\stacknumber\numbertype.c
+	<stdio.h>
+	"numberType.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+
